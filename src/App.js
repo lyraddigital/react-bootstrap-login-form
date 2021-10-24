@@ -11,7 +11,7 @@ function App() {
         <img className="mb-4 bootstrap-logo" 
               src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-solid.svg" 
               alt="Bootstrap 5" />
-        <h1 className="mb-3 fw-normal">Please sign in</h1>
+        <h1 className="mb-3 fs-3 fw-normal">Please sign in</h1>
         <Form.Group controlId="sign-in-email-address">
           <Form.Control type="email" size="lg" placeholder="Email address" autoComplete="username" className="position-relative" />
         </Form.Group>
